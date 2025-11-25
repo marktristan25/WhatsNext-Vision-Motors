@@ -17,12 +17,6 @@ Batch Apex and scheduled jobs to update order status and stock levels.
 
 Custom Lightning App, page layouts, and reports for enhanced UI/UX.
 
-**Included Files**
-
-Documentation.pdf – Complete Salesforce project documentation.
-
-DemoVideo.mp4 – Video demonstration of the CRM features and workflows.
-
 **Future Enhancements**
 
 Chatbot integration for instant customer support.
@@ -32,6 +26,10 @@ AI-powered suggestions for best dealer based on traffic or ratings.
 Integration with inventory management systems.
 
 Mobile App extension via Salesforce Mobile Publisher.
+
+**Demo Video
+**
+https://drive.google.com/file/d/1UyfljO8U0BfwkKxRHV9di_VlwczWFPZv/view?usp=sharing
 
 **Usage**
 
