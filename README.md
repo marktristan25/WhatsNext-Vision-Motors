@@ -1,3 +1,7 @@
+Mark Tristan C. Idanan
+BSIT 4-1
+PUP STC
+
 **WhatsNext Vision Motors – Salesforce CRM Project**
 **Project Overview**
 
