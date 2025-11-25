@@ -1,9 +1,9 @@
-WhatsNext Vision Motors – Salesforce CRM Project
-Project Overview
+**WhatsNext Vision Motors – Salesforce CRM Project**
+**Project Overview**
 
 WhatsNext Vision Motors is a pioneering automotive company that implemented a Salesforce CRM solution to streamline vehicle sales, test drives, and service requests. The CRM automates dealer assignment, enforces stock validation, and sends test drive reminders, improving efficiency, accuracy, and customer satisfaction.
 
-Features
+**Features**
 
 Centralized management of vehicles, dealers, customers, orders, test drives, and service requests.
 
@@ -17,13 +17,13 @@ Batch Apex and scheduled jobs to update order status and stock levels.
 
 Custom Lightning App, page layouts, and reports for enhanced UI/UX.
 
-Included Files
+**Included Files**
 
 Documentation.pdf – Complete Salesforce project documentation.
 
 DemoVideo.mp4 – Video demonstration of the CRM features and workflows.
 
-Future Enhancements
+**Future Enhancements**
 
 Chatbot integration for instant customer support.
 
@@ -33,7 +33,7 @@ Integration with inventory management systems.
 
 Mobile App extension via Salesforce Mobile Publisher.
 
-Usage
+**Usage**
 
 This repository serves as a reference for the Salesforce capstone project. The demo video illustrates the functionality of the system, and the documentation explains the development process, data model, automations, and testing.
 
