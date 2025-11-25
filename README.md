@@ -27,8 +27,7 @@ Integration with inventory management systems.
 
 Mobile App extension via Salesforce Mobile Publisher.
 
-**Demo Video
-**
+**Demo Video**
 
 https://drive.google.com/file/d/1UyfljO8U0BfwkKxRHV9di_VlwczWFPZv/view?usp=sharing
 
